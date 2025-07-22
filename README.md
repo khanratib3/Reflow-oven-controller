@@ -1,2 +1,2 @@
 # Reflow-oven-controller
-Repository for ELEC 291 Reflow oven controller programmed in 8051 assembly
+Programmed a reflow oven controller state machine on an 8051 microcontroller to control a standard toaster oven via a solid-state relay. Utilized timers and PWM for precise temperature control, implemented user programmability for soak and reflow temperature/time settings, added a buzzer to signal process completion, and graphed the entire reflow profile in real-time using a Python-based graph.
